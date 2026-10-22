@@ -12,7 +12,7 @@ Ja. Firmenkunden können ein Geschäftskonto mit Sammelrechnung beantragen. Die 
 
 ## Gibt es Mengenrabatte?
 
-Ab einer Bestellmenge von 50 Stück desselben Artikels gewähren wir automatisch 5 % Rabatt, ab 200 Stück 10 % Rabatt. Individuelle Rahmenverträge sind auf Anfrage möglich.
+Ab einer Bestellmenge von 50 Stück desselben Artikels gewähren wir automatisch 15 % Rabatt, ab 200 Stück 20 % Rabatt. Individuelle Rahmenverträge sind auf Anfrage möglich.
 
 ## Welche Zahlungsarten werden akzeptiert?
 
